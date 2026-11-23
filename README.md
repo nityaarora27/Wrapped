@@ -1,6 +1,8 @@
 # 🎁 Wrapped
 Wrapped is a smart gift recommendation application that takes the stress out of gifting. By inputting who you're shopping for, the occasion, and your budget, Wrapped curates personalized gift ideas and provides direct shopping links to Amazon and Nykaa so you can buy them in seconds.
 
+#Live Demo Link : https://wrapped-dun-six.vercel.app
+
 # Features
 Personalized Gifting Engine: Tailors recommendations based on the recipient (e.g., partner, friend, parent, colleague), their interests, and your relationship.
 
